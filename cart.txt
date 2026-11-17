@@ -1,3 +1,4 @@
 Shopping Cart
 Add books to cart
 Remove books from cart
+Calculate total price
